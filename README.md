@@ -1,6 +1,5 @@
-## Copyright Notice
+## Copyright Information
+The content and source code of this website are the intellectual property of the creator.
+All rights remain with the author. The code is made available solely for reference and must not be copied, altered, reused, or shared in any manner without prior written consent from the author.
 
-This website and its source code are the intellectual property of the author.  
-All rights are reserved. The code is provided for viewing purposes only and may not be copied, reused, modified, or distributed in any form without explicit written permission from the author.
-
-Unauthorized use of this code is strictly prohibited.
+Any unauthorized usage of this code is strictly forbidden.
